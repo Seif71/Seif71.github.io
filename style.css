@@ -1,11 +1,10 @@
 body {
-    height: 100vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
-    color: black;
-    font-family: Arial, sans-serif;
+    height: 100vh;
+    flex-direction: column;
     margin: 0;
-}
+    font-family: Arial, sans-serif;
+  }
+  
