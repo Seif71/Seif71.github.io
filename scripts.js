@@ -1,3 +1,4 @@
-function changeText() {
-    document.querySelector("h1").innerText = "Thanks for visiting, Seif!";
-}
+document.getElementById("changeButton").addEventListener("click", () => {
+    document.getElementById("mainText").innerText = "Thanks for visiting, Seif!";
+  });
+  
